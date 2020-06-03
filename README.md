@@ -1,8 +1,10 @@
 # Machine-Learning-Projects
 Interesting and useful projects to get friendly with machine learning through python
 Projects includes :
-  Breast Cancer Detection
-  Game Board Review Prediction
-  Credit Card Freaud Detection
-  Stock Market Clustering
-  Diabetes Onset Detection
+  1. Breast Cancer Detection
+  2. Game Board Review Prediction
+  3. Credit Card Freaud Detection
+  4. Stock Market Clustering
+  5. Diabetes Onset Detection
+  
+ P.S.  : games.csv is the dataset of Board Game Review Prediction 
