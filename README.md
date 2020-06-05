@@ -8,3 +8,5 @@ Projects includes :
   5. Diabetes Onset Detection
   
  P.S.  : games.csv is the dataset of Board Game Review Prediction 
+DataSet for Fraud Card Detection Project, here is the link..
+      https://www.kaggle.com/mlg-ulb/creditcardfraud
