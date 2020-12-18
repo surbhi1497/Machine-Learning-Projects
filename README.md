@@ -6,6 +6,8 @@ Projects includes :
   3. Credit Card Freaud Detection
   4. Stock Market Clustering
   5. Diabetes Onset Detection
+  6. CLTV MODEL
+  7. MARKET BASKET ANALYSIS
   
  P.S.  : games.csv is the dataset of Board Game Review Prediction 
 DataSet for Fraud Card Detection Project, here is the link..
